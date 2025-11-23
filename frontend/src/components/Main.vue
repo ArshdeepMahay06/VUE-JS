@@ -7,7 +7,7 @@ const author = ref("")
 // Function to fetch random quote from Express API
 async function getRandomQuote() {
   try {
-    const res = await fetch("http://localhost:3000/")
+    const res = await fetch("https://vue-js-31ga.onrender.com/")
     const data = await res.json()
 
     console.log(data);
