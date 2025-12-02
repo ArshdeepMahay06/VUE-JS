@@ -1,5 +1,8 @@
 # 🌟 Quotes Generator — Vue + Express + MongoDB
 
+## https://vue-js-31ga.onrender.com/
+## https://vue-js-frontend.onrender.com/
+
 A full-stack application that displays **random quotes** fetched from a MongoDB database.  
 The backend is built with **Express.js**, and the frontend uses **Vue 3 (Vite)**.  
 Both services are deployed on **Render.com**.
